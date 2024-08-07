@@ -5,56 +5,54 @@
     <a href="https://twitter.com/CyberEy3z">
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
-    </a>
 </p>
 
 <p align="center">
   <br>
   <b>Disponible en</b>
   <br>
-  <img src="https://imgur.com/1gjFW9H.png  ">
+  <img src="https://imgur.com/1gjFW9H.png">
 </p>
 
 <p>
   <a style="margin-right: 10px;" href="https://github.com/elcasodepaz/Ojo-Cibernetico#instalaciónn">
-    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=fff&hp=25&vp=10&c=5&bgt=unicolored&bgc=ff5733">
   </a>
   <a style="margin-right: 10px;" href="https://github.com/elcasodepaz/Ojo-Cibernetico#usage">
-    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=fff&hp=25&vp=10&c=5&bgt=unicolored&bgc=ff5733">
   </a>
   <a href="https://github.com/elcasodepaz/Ojo-Cibernetico#demo">
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
+    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=fff&hp=25&vp=10&c=5&bgt=unicolored&bgc=ff5733">
   </a>
 </p>
 
-Herramienta útil para rastrear la ubicación o el número de móvil, por lo que esta herramienta se puede llamar OSINT (Inteligencia de Fuentes Abiertas) o también recopilación de información. Estas herramientas permiten a los usuarios obtener datos sobre una persona o un dispositivo a partir de información disponible públicamente en internet.
+<p>Herramienta útil para rastrear la ubicación o el número de móvil, por lo que esta herramienta se puede llamar OSINT (Inteligencia de Fuentes Abiertas) o también recopilación de información. Estas herramientas permiten a los usuarios obtener datos sobre una persona o un dispositivo a partir de información disponible públicamente en internet.</p>
 
-Algunas de las funcionalidades que pueden ofrecer incluyen:
+<p>Algunas de las funcionalidades que pueden ofrecer incluyen:</p>
 
+<ul>
+  <li>Geolocalización: Permiten determinar la ubicación exacta de un dispositivo móvil utilizando GPS, redes Wi-Fi o torres de telefonía celular.</li>
+  <li>Búsqueda de números de teléfono: Facilitan la búsqueda de información asociada a un número de teléfono, como el nombre del propietario, dirección y otros datos relevantes.</li>
+  <li>Análisis de redes sociales: Pueden recopilar información de perfiles públicos en redes sociales, ayudando a construir un perfil más completo de una persona.</li>
+  <li>Monitoreo de actividad en línea: Algunas herramientas permiten rastrear la actividad en línea de un individuo, incluyendo publicaciones, comentarios y otras interacciones en diversas plataformas.</li>
+  <li>Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.</li>
+  <li>Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.</li>
+</ul>
 
-* Geolocalización: Permiten determinar la ubicación exacta de un dispositivo móvil utilizando GPS, redes Wi-Fi o torres de telefonía celular.
+<h2>Probado en:</h2>
 
-* Búsqueda de números de teléfono: Facilitan la búsqueda de información asociada a un número de teléfono, como el nombre del propietario, dirección y otros datos relevantes.
+<ul>
+  <li>Kali Linux</li>
+  <li>Parrot OS</li>
+  <li>BlackArch Linux</li>
+  <li>Kali Nethunter</li>
+  <li>Termux</li>
+  <li>OSX - Monterey v.12.0.1</li>
+</ul>
 
-* Análisis de redes sociales: Pueden recopilar información de perfiles públicos en redes sociales, ayudando a construir un perfil más completo de una persona.
+<h2>Installation</h2>
 
-* Monitoreo de actividad en línea: Algunas herramientas permiten rastrear la actividad en línea de un individuo, incluyendo publicaciones, comentarios y otras interacciones en diversas plataformas.
-
-* Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.
-
-* Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
-  
-
-## probado en :
-
-* Kali Linux
-* Parrot OS
-* BlackArch Linux
-* Kali Nethunter
-* Termux
-* OSX - Monterey v.12.0.1
-
-## Installation
+<h3>Kali Linux / Parrot OS / Termux</h3>
 
 ### Kali Linux / Parrot OS / Termux
 
