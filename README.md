@@ -44,17 +44,6 @@ Algunas de las funcionalidades que pueden ofrecer incluyen:
 
 * Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
   
-## Templates
-
-Available Templates : 
-
-* NearYou
-* Google Drive (Suggested by @Akaal_no_one)
-* WhatsApp (Suggested by @Dazmed707)
-* Telegram
-* Zoom (Made by @a7maadf)
-* Google reCAPTCHA (Made by @MrEgyptian)
-
 
 ## probado en :
 
@@ -90,12 +79,11 @@ Mostrar el menu ```Rastreador IP```
 <img src="https://imgur.com/1r1haff.png" />
 
 Ingresa una IP y te dará información
-<summary>:zap: Install Seeker :</summary>
+<summary>:zap:  :</summary>
 - <strong><a>  </a></strong>
 </details>
 
 <details>
-
 
 Mostrar el menu ```Rastreador de Teléfonos```
 
