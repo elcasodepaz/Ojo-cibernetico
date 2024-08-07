@@ -42,15 +42,15 @@
 <h3 style="color: red;">Instalación</h3>
 <h4>Kali Linux / Parrot OS / Termux</h4>
 <pre><code>
-git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
-cd Ojo-Cibernetico/
+git clone https://github.com/elcasodepaz/Ojo-cibernetico.git
+cd Ojo-cibernetico/
 pip3 install -r requirements.txt
 python3 Ojo-cibernetico.py
 </code></pre>
 
 <h4>OSX</h4>
 <pre><code>
-git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
+git clone https://github.com/elcasodepaz/Ojo-cibernetico.git
 cd Ojo-cibernetico/
 pip3 install -r requirements.txt
 python3 Ojo-cibernetico.py
