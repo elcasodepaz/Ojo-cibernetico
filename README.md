@@ -1,6 +1,6 @@
 # Ojo-Cibernetico
 <p align="center">
-    <![menu](https://github.com/user-attachments/assets/e42fd8e3-ff61-4c1e-bdeb-a74b3407b35d)
+    <img src=![menu](https://github.com/user-attachments/assets/e42fd8e3-ff61-4c1e-bdeb-a74b3407b35d)
 <p align="center">
 </p>
 ![menu](https://github.com/user-attachments/assets/e42fd8e3-ff61-4c1e-bdeb-a74b3407b35d)
