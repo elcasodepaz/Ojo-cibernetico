@@ -56,12 +56,12 @@
 
 ### Kali Linux / Parrot OS / Termux
 
-```
+
 git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
 cd Ojo-Cibernetico/
 pip3 install -r requirements.txt
 python3 Ojo-Cibernetico.py
-```
+
 
 ### OSX
 ```bash
