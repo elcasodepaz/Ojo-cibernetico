@@ -45,7 +45,7 @@
 git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
 cd Ojo-Cibernetico/
 pip3 install -r requirements.txt
-python3 Ojo-Cibernetico.py
+python3 Ojo-cibernetico.py
 </code></pre>
 
 <h4>OSX</h4>
@@ -53,7 +53,7 @@ python3 Ojo-Cibernetico.py
 git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
 cd Ojo-cibernetico/
 pip3 install -r requirements.txt
-python3 Ojo-Cibernetico.py
+python3 Ojo-cibernetico.py
 </code></pre>
 
 <h3 style="color: yellow;">Uso</h3>
