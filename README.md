@@ -16,7 +16,7 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/elcasodepaz/Ojo-Cibernetico#nstalaciónn">
+  <a style="margin-right: 10px;" href="https://github.com/elcasodepaz/Ojo-Cibernetico#instalaciónn">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
   <a style="margin-right: 10px;" href="https://github.com/elcasodepaz/Ojo-Cibernetico#usage">
