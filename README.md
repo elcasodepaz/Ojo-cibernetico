@@ -106,7 +106,7 @@ pip3 install -r requirements.txt
 python3 Ojo-Cibernetico.py
 ````
 
-## Usage
+## Usar
 Mostrar el menu ```Restreador IP```
 
 <img src="https://imgur.com/1r1haff.png" />
