@@ -27,12 +27,12 @@ Wh = '\033[1;37m'
 
 # decorator for attaching run_banner to a function
 def is_option(func):
-def wrapper(*args, **kwargs):
-run_banner()
-func(*args, **kwargs)
+    def wrapper(*args, **kwargs):
+        run_banner()
+    func(*args, **kwargs)
 
 
-return wrapper
+    return wrapper
 
 
 # FUNCTIONS FOR MENU
