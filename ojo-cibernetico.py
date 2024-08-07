@@ -34,7 +34,7 @@ def is_option(func):
 def IP_Track():
     ip = input(f"{Wh}\n Ingrese la direccion IP objetivo : {Blu}")  # INPUT IP ADDRESS
     print()
-    print(f' {Wh}++++++ {Ye}Mostrar informacion de direcciones IP {Wh}++++++')
+    print(f' {Wh}++++++ {Blu}Mostrar informacion de direcciones IP {Wh}++++++')
     req_api = requests.get(f"http://ipwho.is/{ip}")  # API IPWHOIS.IS
     ip_data = json.loads(req_api.text)
     time.sleep(2)
@@ -145,6 +145,7 @@ def TrackLu():
             url = site['url'].format(username)
             response = requests.get(url)
             if response.status_code == 200:
+                results[site['
                 results[site['name']] = url
             else:
                 results[site['name']] = (f"{Ye}Usuario no fue encontrado {Ye}!")
