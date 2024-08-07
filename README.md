@@ -1,8 +1,9 @@
 # Ojo-Cibernetico
 <p align="center">
-    <img src="https://imgur.com/EtceBhk.png" alt="Imagen de Encabezado" style="border: 3px solid yellow;">
+    <![menu](https://github.com/user-attachments/assets/e42fd8e3-ff61-4c1e-bdeb-a74b3407b35d)
+<p align="center">
 </p>
-
+![menu](https://github.com/user-attachments/assets/e42fd8e3-ff61-4c1e-bdeb-a74b3407b35d)
 <p align="center">
     <a href="https://x.com/CyberEy3z">
       <img src="https://img.shields.io/badge/-X-blue?logo=x&style=for-the-badge" alt="X Badge"> 
