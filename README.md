@@ -32,17 +32,17 @@ Herramienta útil para rastrear la ubicación o el número de móvil, por lo que
 Algunas de las funcionalidades que pueden ofrecer incluyen:
 
 
-    Geolocalización: Permiten determinar la ubicación exacta de un dispositivo móvil utilizando GPS, redes Wi-Fi o torres de telefonía celular.
+* Geolocalización: Permiten determinar la ubicación exacta de un dispositivo móvil utilizando GPS, redes Wi-Fi o torres de telefonía celular.
 
-    Búsqueda de números de teléfono: Facilitan la búsqueda de información asociada a un número de teléfono, como el nombre del propietario, dirección y otros datos relevantes.
+* Búsqueda de números de teléfono: Facilitan la búsqueda de información asociada a un número de teléfono, como el nombre del propietario, dirección y otros datos relevantes.
 
-    Análisis de redes sociales: Pueden recopilar información de perfiles públicos en redes sociales, ayudando a construir un perfil más completo de una persona.
+* Análisis de redes sociales: Pueden recopilar información de perfiles públicos en redes sociales, ayudando a construir un perfil más completo de una persona.
 
-    Monitoreo de actividad en línea: Algunas herramientas permiten rastrear la actividad en línea de un individuo, incluyendo publicaciones, comentarios y otras interacciones en diversas plataformas.
+* Monitoreo de actividad en línea: Algunas herramientas permiten rastrear la actividad en línea de un individuo, incluyendo publicaciones, comentarios y otras interacciones en diversas plataformas.
 
-    Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.
+* Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.
 
-    Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
+* Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
 
 
 Along with Location Information we also get **Device Information** without any permissions :
