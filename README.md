@@ -119,7 +119,7 @@ on the IP Track menu, you can combo with the seeker tool to get the target IP
 
 Mostrar el menu ```Rastreador de Teléfonos```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
+<img src="https://imgur.com/8vvSM8o.png" />
 
 on this menu you can search for information from the target phone number
 
