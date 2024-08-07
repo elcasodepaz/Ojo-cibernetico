@@ -43,22 +43,7 @@ Algunas de las funcionalidades que pueden ofrecer incluyen:
 * Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.
 
 * Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
-
-
-Along with Location Information we also get **Device Information** without any permissions :
-
-* Unique ID using Canvas Fingerprinting
-* Device Model - Not always available
-* Operating System
-* Platform
-* Number of CPU Cores - Approximate Results
-* Amount of RAM - Approximate Results
-* Screen Resolution
-* GPU information
-* Browser Name and Version
-* Public IP Address
-* Local IP Address
-* Local Port
+  
 
 **Automatic IP Address Reconnaissance** is performed after the above information is received.
 
@@ -93,145 +78,62 @@ Steps to let you create your template is described in this [how-to](./createTemp
 
 Once your template is ready, **do not forget to propose it to the community via a PR (pull request)**
 
-## Tested On :
+## probado en. :
 
 * Kali Linux
+* Parrot OS
 * BlackArch Linux
-* Ubuntu
-* Fedora
 * Kali Nethunter
 * Termux
-* Parrot OS
 * OSX - Monterey v.12.0.1
 
 ## Installation
 
-### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
+### Kali Linux / Parrot OS / Termux
 
-```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
-chmod +x install.sh
-./install.sh
 ```
-
-### BlackArch Linux
-
-```bash
-sudo pacman -S seeker
-```
-
-### Docker
-
-```bash
-docker pull thewhiteh4t/seeker
+git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
+cd Ojo-Cibernetico/
+pip3 install -r requirements.txt
+python3 Ojo-Cibernetico.py
 ```
 
 ### OSX
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
-python3 seeker.py
-````
-
-In order to run in tunnel mode, install ngrok by running this command in the terminal:
-```bash
-brew install ngrok/ngrok/ngrok
-
-ngrok http 8080
+git clone https://github.com/elcasodepaz/Ojo-Cibernetico.git
+cd Ojo-cibernetico/
+pip3 install -r requirements.txt
+python3 Ojo-Cibernetico.py
 ````
 
 ## Usage
+Display on the menu ```IP Tracker```
 
-```bash
-python3 seeker.py -h
+<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
-usage: seeker.py [-h] [-k KML] [-p PORT] [-u] [-v] [-t TEMPLATE] [-d] [--telegram token:chatId] [--webhook WEBHOOK]
+on the IP Track menu, you can combo with the seeker tool to get the target IP
+<details>
+<summary>:zap: Install Seeker :</summary>
+- <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
+</details>
 
-options:
-  -h, --help                            show this help message and exit
-  -k KML, --kml KML                     KML filename
-  -p PORT, --port PORT                  Web server port [ Default : 8080 ]
-  -u, --update                          Check for updates
-  -v, --version                         Prints version
-  -t TEMPLATE, --template TEMPLATE      Auto choose the template with the given index
-  -d, --debugHTTP                       Disable auto http --> https redirection for testing purposes 
-                                        (only works for the templates having index_temp.html file)
-  --telegram                            Send info to a telegram bot, provide telegram token and chat to use
-                                        format = token:chatId separated by a colon
-  --webhook                             Send events to a webhook endpoint to be processed
-                                        Note : endpoint must be unauthenticated and accept POST request
+Display on the menu ```Phone Tracker```
 
-#########################
-# Environment Variables #
-#########################
+<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
 
-Some of the options above can also be enabled via environment variables, to ease deployment.
-Other parameters can be provided via environment variables to avoid interactive mode.
+on this menu you can search for information from the target phone number
 
-Variables:
-  DEBUG_HTTP            Same as -d, --debugHTTP
-  PORT                  Same as -p, --port
-  TEMPLATE              Same as -t, --template
-  TITLE                 Provide the group title or the page title
-  REDIRECT              Provide the URL to redirect the user to, after the job is done
-  IMAGE                 Provide the image to use, can either be remote (http or https) or local
-                        Note : Remote image will be downloaded locally during the startup
-  DESC                  Provide the description of the item (group or webpage depending on the template)
-  SITENAME              Provide the name of the website
-  DISPLAY_URL           Provide the URL to display on the page
-  MEM_NUM               Provide the number of group membres (Telegram so far)
-  ONLINE_NUM            Provide the number of the group online members (Telegram so far)
-  TELEGRAM              Provide telegram token and chat to use to send info to a telegram bot
-                        format = token:chatId separated by a colon
-  WEBHOOK               Provide the webhook url to forward the events to 
-                        Note : endpoint should be unauthenticated and accept POST method
-                        
+Display on the menu ```Username Tracker```
 
-##################
-# Usage Examples #
-##################
+<img src="https://imgur.com/GrtyFJR.png"/>
+on this menu you can search for information from the target username on social media
 
-# Step 1 : In first terminal
-$ python3 seeker.py
-
-# Step 2 : In second terminal start a tunnel service such as ngrok
-$ ./ngrok http 8080
-
-###########
-# Options #
-###########
-
-# Ouput KML File for Google Earth
-$ python3 seeker.py -k <filename>
-
-# Use Custom Port
-$ python3 seeker.py -p 1337
-$ ./ngrok http 1337
-
-# Pre-select a specific template
-$ python3 seeker.py -t 1
-
-################
-# Docker Usage #
-################
-
-# Step 1
-$ docker network create ngroknet
-
-# Step 2
-$ docker run --rm -it --net ngroknet --name seeker thewhiteh4t/seeker
-
-# Step 3
-$ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
+<details>
+<summary>:zap: Author :</summary>
+- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+</details>
 ```
 
-## Local Tunnels
-Use
-```
-ssh -R 80:localhost:8080 nokey@localhost.run
-```
-as an alterntive to ngrok
 
 ## Demo
 
