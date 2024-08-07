@@ -84,16 +84,16 @@ Mostrar el menu ```Rastreador de Teléfonos```
 
 <img src="https://imgur.com/8vvSM8o.png" />
 
-on this menu you can search for information from the target phone number
+En este menú puedes buscar información del número de teléfono objetivo
 
 Mostrar en el menu ```Rastreador de Nombres de Usuario```
  
 <img src="https://imgur.com/BPZSXae.png"/>
-on this menu you can search for information from the target username on social media
+En este menú puedes buscar información del nombre de usuario objetivo en las redes sociales
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/elcasodepaz">HunxByts</a></strong>
 </details>
 
 
