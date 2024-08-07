@@ -123,8 +123,8 @@ Mostrar el menu ```Rastreador de Teléfonos```
 
 on this menu you can search for information from the target phone number
 
-Display on the menu ```Username Tracker```
-
+Mostrar en el menu ```Rastreador de Nombres de Usuario```
+ 
 <img src="https://imgur.com/BPZSXae.png"/>
 on this menu you can search for information from the target username on social media
 
@@ -132,7 +132,6 @@ on this menu you can search for information from the target username on social m
 <summary>:zap: Author :</summary>
 - <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
 </details>
-```
 
 
 ## Demo
