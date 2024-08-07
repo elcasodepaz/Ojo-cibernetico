@@ -1,13 +1,13 @@
 # Ojo-Cibernetico
-
 <p align="center">
     <img src="https://imgur.com/EtceBhk.png" alt="Imagen de Encabezado" style="border: 3px solid yellow;">
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/CyberEy3z">
-        <img src="https://img.shields.io/badge/-TWITTER-blue?logo=twitter&style=for-the-badge" alt="Insignia de Twitter">
+    <a href="https://x.com/CyberEy3z">
+        <img src="https://img.shields.io/badge/-X-blue?logo=x&style=for-the-badge" alt="X Badge">
     </a>
+</p>
 </p>
 
 <p align="center" style="color: red;">
