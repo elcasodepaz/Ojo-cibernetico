@@ -79,10 +79,6 @@ Mostrar el menu ```Rastreador IP```
 <img src="https://imgur.com/1r1haff.png" />
 
 Ingresa una IP y te dará información
-</summary>
-</details>
-
-<details>
 
 Mostrar el menu ```Rastreador de Teléfonos```
 
