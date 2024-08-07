@@ -79,8 +79,7 @@ Mostrar el menu ```Rastreador IP```
 <img src="https://imgur.com/1r1haff.png" />
 
 Ingresa una IP y te dará información
-<summary>:zap:  :</summary>
-- <strong><a>  </a></strong>
+</summary>
 </details>
 
 <details>
