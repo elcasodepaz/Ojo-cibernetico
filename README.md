@@ -71,7 +71,7 @@ python3 Ojo-Cibernetico.py
 <p style="color: blue;">En este menú puedes buscar información del nombre de usuario objetivo en las redes sociales</p>
 
 <details>
-    <summary style="color: yellow;">:zap: Autor :</summary>
+    <summary style="color: yellow;">:zap: Translador :</summary>
     <ul>
         <li><strong><a href="https://github.com/elcasodepaz" style="color: red;">CyberEy3z</a></strong></li>
     </ul>
