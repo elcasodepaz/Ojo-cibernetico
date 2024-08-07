@@ -78,7 +78,7 @@ Steps to let you create your template is described in this [how-to](./createTemp
 
 Once your template is ready, **do not forget to propose it to the community via a PR (pull request)**
 
-## probado en. :
+## probado en :
 
 * Kali Linux
 * Parrot OS
@@ -87,7 +87,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 * Termux
 * OSX - Monterey v.12.0.1
 
-## Installation
+## Instalacion
 
 ### Kali Linux / Parrot OS / Termux
 
