@@ -93,7 +93,7 @@ En este menú puedes buscar información del nombre de usuario objetivo en las r
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/elcasodepaz">HunxByts</a></strong>
+- <strong><a href="https://github.com/elcasodepaz">CyberEy3z</a></strong>
 </details>
 
 
