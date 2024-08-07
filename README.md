@@ -92,7 +92,7 @@ Mostrar en el menu ```Rastreador de Nombres de Usuario```
 En este menú puedes buscar información del nombre de usuario objetivo en las redes sociales
 
 <details>
-<summary>:zap: Author :</summary>
+<summary>:zap: Atuor :</summary>
 - <strong><a href="https://github.com/elcasodepaz">CyberEy3z</a></strong>
 </details>
 
