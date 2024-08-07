@@ -2,7 +2,7 @@
 <p align="center"><img src="https://imgur.com/S1nOVCU.png"></p>
 
 <p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
+    <a href="https://twitter.com/CyberEy3z">
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
