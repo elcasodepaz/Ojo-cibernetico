@@ -87,7 +87,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 * Termux
 * OSX - Monterey v.12.0.1
 
-## Instalacion
+## Installation
 
 ### Kali Linux / Parrot OS / Termux
 
@@ -106,8 +106,8 @@ pip3 install -r requirements.txt
 python3 Ojo-Cibernetico.py
 ````
 
-## Usar
-Mostrar el menu ```Restreador IP```
+## Usage
+Mostrar el menu ```Rastreador IP```
 
 <img src="https://imgur.com/1r1haff.png" />
 
@@ -117,7 +117,7 @@ on the IP Track menu, you can combo with the seeker tool to get the target IP
 - <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
 </details>
 
-Display on the menu ```Phone Tracker```
+Mostrar el menu ```Rastreador de Teléfonos```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
 
