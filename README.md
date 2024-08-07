@@ -27,7 +27,7 @@
   </a>
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Herramienta útil para rastrear la ubicación o el número de móvil, por lo que esta herramienta se puede llamar OSINT o también recopilación de información.:
 
 * Longitude
 * Latitude
