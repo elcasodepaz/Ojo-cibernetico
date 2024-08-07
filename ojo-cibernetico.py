@@ -145,8 +145,7 @@ def TrackLu():
             url = site['url'].format(username)
             response = requests.get(url)
             if response.status_code == 200:
-                results[site['
-                results[site['name']] = url
+               results[site['name']] = url
             else:
                 results[site['name']] = (f"{Ye}Usuario no fue encontrado {Ye}!")
     except Exception as e:
