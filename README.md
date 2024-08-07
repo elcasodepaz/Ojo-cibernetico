@@ -1,5 +1,5 @@
-# Ojoc-Cibernetico
-<p align="center"><img src="https://imgur.com/S1nOVCU"></p>
+# Ojo-Cibernetico
+<p align="center"><img src="https://imgur.com/S1nOVCU.png"></p>
 
 <p align="center">
     <a href="https://twitter.com/thewhiteh4t">
