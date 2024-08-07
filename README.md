@@ -125,7 +125,7 @@ on this menu you can search for information from the target phone number
 
 Display on the menu ```Username Tracker```
 
-<img src="https://imgur.com/EtceBhk.png"/>
+<img src="https://imgur.com/BPZSXae.png"/>
 on this menu you can search for information from the target username on social media
 
 <details>
