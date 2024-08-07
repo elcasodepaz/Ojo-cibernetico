@@ -1,5 +1,5 @@
 # Ojoc-Cibernetico
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="https://i.imgur.com/S1nOVCU"></p>
 
 <p align="center">
     <a href="https://twitter.com/thewhiteh4t">
