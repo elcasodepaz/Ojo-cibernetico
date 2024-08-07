@@ -27,14 +27,23 @@
   </a>
 </p>
 
-Herramienta útil para rastrear la ubicación o el número de móvil, por lo que esta herramienta se puede llamar OSINT o también recopilación de información.:
+Herramienta útil para rastrear la ubicación o el número de móvil, por lo que esta herramienta se puede llamar OSINT (Inteligencia de Fuentes Abiertas) o también recopilación de información. Estas herramientas permiten a los usuarios obtener datos sobre una persona o un dispositivo a partir de información disponible públicamente en internet.
 
-* Longitude
-* Latitude
-* Accuracy
-* Altitude - Not always available
-* Direction - Only available if user is moving
-* Speed - Only available if user is moving
+Algunas de las funcionalidades que pueden ofrecer incluyen:
+
+
+    Geolocalización: Permiten determinar la ubicación exacta de un dispositivo móvil utilizando GPS, redes Wi-Fi o torres de telefonía celular.
+
+    Búsqueda de números de teléfono: Facilitan la búsqueda de información asociada a un número de teléfono, como el nombre del propietario, dirección y otros datos relevantes.
+
+    Análisis de redes sociales: Pueden recopilar información de perfiles públicos en redes sociales, ayudando a construir un perfil más completo de una persona.
+
+    Monitoreo de actividad en línea: Algunas herramientas permiten rastrear la actividad en línea de un individuo, incluyendo publicaciones, comentarios y otras interacciones en diversas plataformas.
+
+    Alertas de cambios de información: Ofrecen la posibilidad de recibir notificaciones cuando hay cambios en la información pública relacionada con un número de teléfono o una ubicación específica.
+
+    Visualización de ubicación en mapas: También pueden mostrarte la ubicación utilizando la API de mapas. Todo lo que tienes que hacer es copiar y pegar el enlace o hacer clic derecho y abrir el enlace para ver la ubicación en un mapa interactivo.
+
 
 Along with Location Information we also get **Device Information** without any permissions :
 
