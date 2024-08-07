@@ -12,7 +12,7 @@
   <br>
   <b>Available in</b>
   <br>
-  <img src="https://i.imgur.com/1wJVDV5.png">
+  <img src="https://imgur.com/1gjFW9H.png  ">
 </p>
 
 <p>
