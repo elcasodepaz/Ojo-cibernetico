@@ -107,9 +107,9 @@ python3 Ojo-Cibernetico.py
 ````
 
 ## Usage
-Display on the menu ```IP Tracker```
+Mostrar el menu ```Restreador IP```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
+<img src="https://imgur.com/1r1haff.png" />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 <details>
