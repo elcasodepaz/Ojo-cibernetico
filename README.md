@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://x.com/CyberEy3z">
-        <img src="https://img.shields.io/badge/-X-blue?logo=x&style=for-the-badge" alt="X Badge">
+      <img src="https://img.shields.io/badge/-X-blue?logo=x&style=for-the-badge" alt="X Badge"> 
     </a>
 </p>
 </p>
