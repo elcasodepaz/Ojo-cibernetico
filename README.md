@@ -6,7 +6,7 @@
 <p align="center">
    href="https://www.x.com/CyberEy3z" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CyberEy3z?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a>
+/> </a>
 </p>
 </p>
 
