@@ -62,11 +62,11 @@ python3 Ojo-cibernetico.py
 
 <p style="color: blue;">Ingresa una IP y te dará información</p>
 <p style="color: blue;">Mostrar el menú <strong>Rastreador de Teléfonos</strong></p>
-<img src="https://imgur.com/8vvSM8o.png" alt="Rastreador de Teléfonos" style="border: 3px solid red;">
+<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/mostrartelefono.png" alt="Rastreador de Teléfonos" style="border: 3px solid red;">
 
 <p style="color: blue;">En este menú puedes buscar información del número de teléfono objetivo</p>
 <p style="color: blue;">Mostrar en el menú <strong>Rastreador de Nombres de Usuario</strong></p>
-<img src="https://imgur.com/BPZSXae.png" alt="Rastreador de Nombres de Usuario" style="border: 3px solid red;">
+<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/usuario.png" alt="Rastreador de Nombres de Usuario" style="border: 3px solid red;">
 
 <p style="color: blue;">En este menú puedes buscar información del nombre de usuario objetivo en las redes sociales</p>
 
