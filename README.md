@@ -1,6 +1,6 @@
 # Ojo-Cibernetico
 <p align="center">
-   <img src="https://imgur.com/EtceBhk.png" alt="Imagen de Encabezado" style="border: 3px solid yellow;">
+   <img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/menu.png;">
 <p align="center">
 </p>
 <p align="center">
