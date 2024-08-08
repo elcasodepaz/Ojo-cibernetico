@@ -10,8 +10,8 @@
 </p>
 
 <p align="center" style="color: red;">
-    <br>
-#     <a> Disponible En <a> 
+    
+      <a> Disponible En <a> 
     <br>
     <img src="https://imgur.com/1gjFW9H.png" alt="Idiomas Disponibles" style="border: 3px solid blue;">
 </p>
