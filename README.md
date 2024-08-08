@@ -13,7 +13,7 @@
     <br>
       <a> Disponible En <a> 
     <br>
-    <img src="https://imgur.com/1gjFW9H.png" alt="Idiomas Disponibles" style="border: 3px solid blue;">
+    <img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/kalinparrot.png" alt="Idiomas Disponibles" style="border: 3px solid blue;">
 </p>
 
 <p>
