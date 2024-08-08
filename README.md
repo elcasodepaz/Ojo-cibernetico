@@ -32,7 +32,6 @@
 <ul style="color: blue;">
     <li>Kali Linux</li>
     <li>Parrot OS</li>
-    <li>BlackArch Linux</li>
     <li>Kali Nethunter</li>
     <li>Termux</li>
     <li>OSX - Monterey v.12.0.1</li>
