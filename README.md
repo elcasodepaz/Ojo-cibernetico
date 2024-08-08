@@ -79,6 +79,6 @@ python3 Ojo-cibernetico.py
 <strong>YouTube</strong>
 
 <a href="https://odysee.com/@Cybereyez:2/ojociber.mp4:9:e">
-<img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp" alt="Video Demo" style="border: 3px solid blue;">
+<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/ojo.png" alt="Video Demo" style="border: 3px solid blue;">
 </a>
 </a>
