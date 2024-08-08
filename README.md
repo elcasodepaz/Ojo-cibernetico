@@ -58,7 +58,7 @@ python3 Ojo-cibernetico.py
 
 <h3 style="color: yellow;">Uso</h3>
 <p style="color: blue;">Mostrar el menú <strong>Rastreador IP</strong></p>
-<img src="https://imgur.com/1r1haff.png" alt="Rastreador IP" style="border: 3px solid red;">
+<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/informacionIP.png" alt="Rastreador IP" style="border: 3px solid red;">
 
 <p style="color: blue;">Ingresa una IP y te dará información</p>
 <p style="color: blue;">Mostrar el menú <strong>Rastreador de Teléfonos</strong></p>
