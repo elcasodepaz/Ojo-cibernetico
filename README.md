@@ -78,6 +78,6 @@ python3 Ojo-cibernetico.py
 <h3 style="color: red;">Demo</h3>
 <strong>YouTube</strong>
 
-<a href="https://odysee.com/@thewhiteh4t:2/seeker_v126_demo:e">
+<a href="https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FCyberEy3z%2Fstatus%2F1821409105166131394&widget=Video:e">
     <img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp" alt="Video Demo" style="border: 3px solid blue;">
 </a>
