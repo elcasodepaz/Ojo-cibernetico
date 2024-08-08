@@ -1,6 +1,6 @@
 # Ojo-Cibernetico
 <p align="center">
-    <img src=https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/menu.png
+    <img src=https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/menu1.png
 <p align="center">
 </p>
 <p align="center">
