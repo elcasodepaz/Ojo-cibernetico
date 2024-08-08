@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 <p align="center">
-< a href="https://www.x.com/CyberEy3z" target="_blank" rel="noreferrer"><img
+< a href="https://www.x.com/CyberEy3z" target="_600" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CyberEy3z?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
 /> </a>
 </p>
