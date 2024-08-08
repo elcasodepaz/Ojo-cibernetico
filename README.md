@@ -78,5 +78,7 @@ python3 Ojo-cibernetico.py
 <h3 style="color: red;">Demo</h3>
 <strong>YouTube</strong>
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="es" dir="ltr">El Ojo Cibernético ya está en vivo, mi gente. ¡Dale uso y vamos con todo!<a href="https://twitter.com/hashtag/Venezuela?src=hash&amp;ref_src=twsrc%5Etfw">#Venezuela</a> <a href="https://twitter.com/hashtag/VenezuelaLibredeDictadura?src=hash&amp;ref_src=twsrc%5Etfw">#VenezuelaLibredeDictadura</a> <a href="https://twitter.com/hashtag/Anonymous?src=hash&amp;ref_src=twsrc%5Etfw">#Anonymous</a> <a href="https://t.co/OPwguDSyVo">pic.twitter.com/OPwguDSyVo</a></p>&mdash; Cyb3rR3alm (@CyberEy3z) <a href="https://twitter.com/CyberEy3z/status/1821409105166131394?ref_src=twsrc%5Etfw">August 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://odysee.com/@thewhiteh4t:2/seeker_v126_demo:e">
+<img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp" alt="Video Demo" style="border: 3px solid blue;">
+</a>
 </a>
