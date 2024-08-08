@@ -4,9 +4,9 @@
 <p align="center">
 </p>
 <p align="center">
-    <a href="https://x.com/CyberEy3z">
-      <img src="https://img.shields.io/badge/-X-blue?logo=x&style=for-the-badge" alt="X Badge"> 
-    </a>
+   href="https://www.x.com/CyberEy3z" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/CyberEy3z?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
+/></a>
 </p>
 </p>
 
