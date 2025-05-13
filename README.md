@@ -68,10 +68,6 @@ pip install -r requirements.txt
 # 4. Ejecuta la herramienta
 python3 Ojo-cibernetico.py
 
-
-
-
-
 <h3 style="color: yellow;">Uso</h3>
 <p style="color: blue;">Mostrar el menú <strong>Rastreador IP</strong></p>
 <img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/informacionIP.png" alt="Rastreador IP" style="border: 3px solid red;">
