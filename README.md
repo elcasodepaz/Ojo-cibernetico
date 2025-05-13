@@ -108,15 +108,4 @@ python3 Ojo-cibernetico.py
 
 ---
 
-<details>
-  <summary>🙌 Agradecimientos</summary>
-  <ul>
-    <li><strong>Traducción y adaptación:</strong> <a href="https://github.com/elcasodepaz">CyberEy3z</a></li>
-  </ul>
-</details>
-
----
-
-
-
 
