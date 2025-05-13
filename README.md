@@ -54,23 +54,6 @@ pip install -r requirements.txt
 # 4. Ejecuta la herramienta
 python3 Ojo-cibernetico.py
 
-🕹️ Uso
-🔍 Rastreador IP
-<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/informacionIP.png" alt="Rastreador IP" style="border: 3px solid red;">
-
-    Ingresa una dirección IP para obtener información detallada.
-
-📞 Rastreador de Teléfonos
-<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/mostrartelefono.png" alt="Rastreador de Teléfonos" style="border: 3px solid red;">
-
-    Busca información sobre el número objetivo.
-
-🧑‍💻 Rastreador de Nombres de Usuario
-<img src="https://github.com/elcasodepaz/Ojo-cibernetico/blob/main/images/usuario.png" alt="Rastreador de Usuario" style="border: 3px solid red;">
-
-    Investiga usuarios en redes sociales y plataformas web.
-
-<details> <summary>🙌 Agradecimientos</summary> <ul> <li><strong>Traducción y adaptación:</strong> <a href="https://github.com/elcasodepaz">CyberEy3z</a></li> </ul> </details>
 
 
 
