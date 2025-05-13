@@ -117,14 +117,6 @@ python3 Ojo-cibernetico.py
 
 ---
 
-## 🎥 Demo
-
-<ul>
-        <li><strong><a href="https://github.com/elcasodepaz" style="color: red;">CyberEy3z</a></strong></li>
-    </ul>
-</details>
-
-<h3 style="color: red;">Demo</h3>
 
 
 
