@@ -49,6 +49,28 @@ cd Ojo-cibernetico/
 pip3 install -r requirements.txt
 python3 Ojo-cibernetico.py
 </code></pre>
+### Linux / Parrot OS / Termux / macOS
+
+> ⚠️ **IMPORTANTE**: Para evitar errores como `externally-managed-environment`, recomendamos usar un entorno virtual.
+
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/elcasodepaz/Ojo-cibernetico.git
+cd Ojo-cibernetico/
+
+# 2. Crea un entorno virtual
+python3 -m venv venv
+source venv/bin/activate  # En Windows: venv\Scripts\activate
+
+# 3. Instala las dependencias
+pip install -r requirements.txt
+
+# 4. Ejecuta la herramienta
+python3 Ojo-cibernetico.py
+
+
+
+
 
 <h3 style="color: yellow;">Uso</h3>
 <p style="color: blue;">Mostrar el menú <strong>Rastreador IP</strong></p>
