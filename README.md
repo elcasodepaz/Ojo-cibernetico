@@ -71,6 +71,14 @@ pip install -r requirements.txt
 # 4. Ejecuta la herramienta
 python3 Ojo-cibernetico.py
 ```
+> 🛑 **¿No quieres usar entorno virtual? (NO recomendado)**  
+> Puedes forzar la instalación con:
+>
+> ```bash
+> pip3 install --break-system-packages -r requirements.txt
+> ```
+>
+> ⚠️ **Advertencia**: Esto puede afectar tu entorno de Python del sistema y causar errores con otras herramientas. Úsalo sólo si sabes lo que estás haciendo o en un entorno de pruebas.
 
 ---
 
